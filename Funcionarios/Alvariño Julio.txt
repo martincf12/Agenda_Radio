@@ -1,0 +1,3 @@
+NombreyAp=Alvariño Julio
+Profesion=Vocal de Loteria
+Telefono=03722-15667135
